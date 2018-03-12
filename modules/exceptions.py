@@ -1,0 +1,2 @@
+class LeptonBinaryMissingError(Exception):
+    pass
